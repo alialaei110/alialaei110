@@ -7,8 +7,18 @@
 </div>
 
 </br></br></br>
+<h3 align="center">Hardware Skills:</h3>
+<p align="center">
+    <img src="./icons/python.svg" alt="python" title="Python" width="40" height="40" />
+    <img src="./icons/django.svg" alt="django" title="Django" width="40" height="40" />
+    <img src="./icons/git.svg" alt="git" title="Git" width="40" height="40" />
+    <img src="./icons/javascript.svg" alt="javascript" title="JavaScript" width="40" height="40" />
+    <img src="./icons/html-5.svg" alt="html" title="HTML" width="40" height="40" />
+    <img src="./icons/css3.svg" alt="css" title="CSS" width="40" height="40" />
+    <img src="./icons/bootstrap.svg" alt="bootstrap" title="Bootstrap" width="40" height="40" />
+</p>
 
-<h3 align="center">Software Skills</h3>
+<h3 align="center">Software Skills:</h3>
 <p align="center">
     <img src="./icons/python.svg" alt="python" title="Python" width="40" height="40" />
     <img src="./icons/django.svg" alt="django" title="Django" width="40" height="40" />
