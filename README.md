@@ -8,9 +8,6 @@
     <li>📫 How to reach me: <b><a href="ali.alaei.ac@gmail.com">ali.alaei.ac@gmail.com</a></b></li>
 </ul>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alialaei110&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" />
-</a>
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=alialaei110&count_private=true&include_all_commits=false" />
