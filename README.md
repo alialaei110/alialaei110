@@ -36,7 +36,8 @@
 
 
 </br>
-<h3 align="center">My Skills</h3>
+</br>
+</br>
 <p align="center">
     <img src="./icons/python.svg" alt="python" title="Python" width="40" height="40" />
     <img src="./icons/django.svg" alt="django" title="Django" width="40" height="40" />
