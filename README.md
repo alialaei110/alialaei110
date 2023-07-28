@@ -1,18 +1,18 @@
 <h1 align="center">Ali Alaei</h1>
 <h3 align="center">Product manager and Software-Hardware developer</h3>
 
-<ul>
-    <!-- <li>🔭 I’m currently working on <b>CVGen</b></li> -->
-    <!--<li>🌱 I’m currently learning <b>JavaScript</b></li>
-    <li>💬 Ask me about <b>Python</b> - <b>Django</b></li>-->
-    <li>📫 How to reach me: <b><a href="ali.alaei.ac@gmail.com">ali.alaei.ac@gmail.com</a></b></li>
-</ul>
+
 
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=alialaei110&count_private=true&include_all_commits=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaei110&layout=compact" />
 </div>
+
+
+
+
+
 
 
 
@@ -31,6 +31,10 @@
         <img src="./icons/telegram.svg" alt="Afshar Sharifi" height="40" width="40" />
     </a>
 </p>-->
+
+
+
+
 </br>
 <h3>My Skills</h3>
 <p>
@@ -62,8 +66,9 @@
 
 -->
 
-<!--<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=alialaei110&count_private=true&include_all_commits=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaei110&layout=compact" />
-</div>-->
-
+<ul>
+    <!-- <li>🔭 I’m currently working on <b>CVGen</b></li> -->
+    <!--<li>🌱 I’m currently learning <b>JavaScript</b></li>
+    <li>💬 Ask me about <b>Python</b> - <b>Django</b></li>-->
+    <li>📫 How to reach me: <b><a href="ali.alaei.ac@gmail.com">ali.alaei.ac@gmail.com</a></b></li>
+</ul>
