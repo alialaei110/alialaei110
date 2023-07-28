@@ -31,7 +31,7 @@
         <img src="./icons/telegram.svg" alt="Afshar Sharifi" height="40" width="40" />
     </a>
 </p>-->
-
+</br>
 <h3>My Skills</h3>
 <p>
     <img src="./icons/python.svg" alt="python" title="Python" width="40" height="40" />
