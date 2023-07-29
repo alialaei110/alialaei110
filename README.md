@@ -13,7 +13,7 @@
     <img src="./icons/fpga.svg" alt="python" title="FPGA" width="50" height="30" />
     <img src="./icons/esp.svg" alt="python" title="ESP" width="50" height="30" />
     <img src="./icons/iot.svg" alt="python" title="IOT" width="50" height="60" />
-    <img src="./icons/pcb.svg" alt="python" title="PCB" width="50" height="30" />
+    <img src="./icons/pcb.svg" alt="python" title="PCB" width="40" height="28" />
     <img src="./icons/vhdl.svg" alt="python" title="PCB" width="50" height="30" />
     </br>
     <img src="./icons/python.svg" alt="python" title="Python" width="40" height="40" />
