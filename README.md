@@ -9,7 +9,7 @@
 </br></br></br>
 
 <h3 align="center">My Software-Hardware Skills:</h3>
-<p align="center">
+<p style="text-align:center;" align="center">
     <img src="./icons/fpga.svg" alt="python" title="FPGA" width="50" height="25" />
   &emsp;
     <img src="./icons/esp.svg" alt="python" title="ESP" width="50" height="25" />
