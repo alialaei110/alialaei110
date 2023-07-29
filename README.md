@@ -19,7 +19,9 @@
     <img src="./icons/pcb.svg" alt="python" title="PCB" width="40" height="24" />
   &emsp;
     <img src="./icons/vhdl.svg" alt="python" title="PCB" width="50" height="25" />
+  </p>
     </br>
+    <p align="center">
     <img src="./icons/python.svg" alt="python" title="Python" width="40" height="40" />
     <img src="./icons/django.svg" alt="django" title="Django" width="40" height="40" />
     <img src="./icons/git.svg" alt="git" title="Git" width="40" height="40" />
