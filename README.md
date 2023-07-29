@@ -10,15 +10,15 @@
 
 <h3 align="center">My Software-Hardware Skills:</h3>
 <p style="text-align:center;" align="center">
-    <img src="./icons/fpga.svg" alt="python" title="FPGA" width="50" height="25" />
+    <img src="./icons/fpga.svg" alt="python" title="FPGA" width="50" height="20" />
   &emsp;
-    <img src="./icons/esp.svg" alt="python" title="ESP" width="50" height="25" />
+    <img src="./icons/esp.svg" alt="python" title="ESP" width="50" height="20" />
   &emsp;
-    <img src="./icons/iot.svg" alt="python" title="IOT" width="40" height="25" />
+    <img src="./icons/iot.svg" alt="python" title="IOT" width="40" height="20" />
   &emsp;
-    <img src="./icons/pcb.svg" alt="python" title="PCB" width="40" height="24" />
+    <img src="./icons/pcb.svg" alt="python" title="PCB" width="40" height="19" />
   &emsp;
-    <img src="./icons/vhdl.svg" alt="python" title="PCB" width="50" height="25" />
+    <img src="./icons/vhdl.svg" alt="python" title="PCB" width="50" height="20" />
   </p>
     </br>
     <p align="center">
