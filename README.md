@@ -14,7 +14,7 @@
   &emsp;
     <img src="./icons/esp.svg" alt="python" title="ESP" width="50" height="25" />
   &emsp;
-    <img src="./icons/iot.svg" alt="python" title="IOT" width="25" height="25" />
+    <img src="./icons/iot.svg" alt="python" title="IOT" width="40" height="25" />
   &emsp;
     <img src="./icons/pcb.svg" alt="python" title="PCB" width="40" height="24" />
   &emsp;
