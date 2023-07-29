@@ -14,7 +14,7 @@
     <img src="./icons/esp.svg" alt="python" title="ESP" width="40" height="40" />
     <img src="./icons/iot.svg" alt="python" title="IOT" width="40" height="40" />
     <img src="./icons/pcb.svg" alt="python" title="PCB" width="40" height="40" />
-    <\br>
+    </br>
     <img src="./icons/python.svg" alt="python" title="Python" width="40" height="40" />
     <img src="./icons/django.svg" alt="django" title="Django" width="40" height="40" />
     <img src="./icons/git.svg" alt="git" title="Git" width="40" height="40" />
