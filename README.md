@@ -11,7 +11,7 @@
 <h3 align="center">My Software-Hardware Skills:</h3>
 <h3 align="center">FPGA  &emsp; ESP32 &emsp;  IOT &emsp;  PCB &emsp;  VHDL</h3>
 <p style="text-align:center;" align="center">
-    <img src="./icons/fpga.svg" alt="python" title="FPGA" width="45" height="15" />
+    <!--<img src="./icons/fpga.svg" alt="python" title="FPGA" width="45" height="15" />
   &emsp;
     <img src="./icons/esp.svg" alt="python" title="ESP" width="45" height="15" />
   &emsp;
@@ -19,7 +19,7 @@
   &emsp;
     <img src="./icons/pcb.svg" alt="python" title="PCB" width="37" height="14" />
   &emsp;
-    <img src="./icons/vhdl.svg" alt="python" title="PCB" width="45" height="15" />
+    <img src="./icons/vhdl.svg" alt="python" title="PCB" width="45" height="15" /> -->
     </br>
     <img src="./icons/python.svg" alt="python" title="Python" width="40" height="40" />
     <img src="./icons/django.svg" alt="django" title="Django" width="40" height="40" />
