@@ -10,6 +10,7 @@
 
 <h3 align="center">My Software-Hardware Skills:</h3>
 <p align="center">
+  <p align="center">
     <img src="./icons/fpga.svg" alt="python" title="FPGA" width="50" height="25" />
   &emsp;
     <img src="./icons/esp.svg" alt="python" title="ESP" width="50" height="25" />
@@ -19,6 +20,7 @@
     <img src="./icons/pcb.svg" alt="python" title="PCB" width="40" height="24" />
   &emsp;
     <img src="./icons/vhdl.svg" alt="python" title="PCB" width="50" height="25" />
+    <p/>
     </br>
     <img src="./icons/python.svg" alt="python" title="Python" width="40" height="40" />
     <img src="./icons/django.svg" alt="django" title="Django" width="40" height="40" />
