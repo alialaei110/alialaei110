@@ -22,6 +22,8 @@
     <img src="./icons/vhdl.svg" alt="python" title="PCB" width="45" height="15" /> -->
     <!--</br>-->
     <img src="./icons/python.svg" alt="python" title="Python" width="40" height="40" />
+    <img src="./icons/c.svg" alt="c" title="c" width="40" height="40" />
+    <img src="./icons/cplusplus-svgrepo-com.svg" alt="c++" title="c++" width="40" height="40" />
     <img src="./icons/django.svg" alt="django" title="Django" width="40" height="40" />
     <img src="./icons/git.svg" alt="git" title="Git" width="40" height="40" />
     <img src="./icons/javascript.svg" alt="javascript" title="JavaScript" width="40" height="40" />
