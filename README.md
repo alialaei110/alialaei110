@@ -32,5 +32,5 @@
 
 
 <ul>
-    <li>📫 How to reach me: <b><a href="ali.alaei.ac@gmail.com">ali.alaei.ac@gmail.com</a></b></li>
+    <li>📫 How to reach me: <b><a href="a.alaei.ei@gmail.com">a.alaei.ei@gmail.com</a></b></li>
 </ul>
