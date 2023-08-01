@@ -3,7 +3,7 @@
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=alialaei110&count_private=true&include_all_commits=false&theme=vue" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaei110&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaei110&layout=compact&theme=vue" />
 </div>
 
 </br></br></br>
