@@ -2,8 +2,8 @@
 <h3 align="center">Product manager and Software-Hardware developer</h3>
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=alialaei110&count_private=true&include_all_commits=false&theme=vue" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaei110&layout=compact&theme=vue" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=alialaei110&count_private=true&include_all_commits=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaei110&layout=compact" />
 </div>
 
 </br></br></br>
